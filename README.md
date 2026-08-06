@@ -1,72 +1,75 @@
-# Lucas Portela
+<h1 align="center">Olá, eu sou o Peter 👋</h1>
 
-🇺🇸 Computer Science student building modern web applications and practical software projects with AI-assisted workflows.
+<p align="center">
+  Estudante de Ciência da Computação em Maceió (AL) construindo o caminho para uma carreira em TI — entre projetos pessoais, trabalhos freelance de desenvolvimento web e experimentos de vez em quando.
+</p>
 
-🇧🇷 Estudante de Ciência da Computação desenvolvendo aplicações web modernas e projetos práticos com workflows AI-assisted.
-
----
-
-## Tech Stack
-
-- React
-- Vite
-- JavaScript
-- Python
-- Tkinter
-- Git & GitHub
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasportelav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/lucasportelav" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Currently
+### 🎓 Sobre mim
 
-🇺🇸
-- Building practical software projects
-- Improving frontend and fullstack development skills
-- Exploring modern AI-assisted development workflows
-- Learning more about software architecture and UI/UX
-
-🇧🇷
-- Construindo projetos práticos de software
-- Aprimorando habilidades em frontend e fullstack
-- Explorando workflows modernos de desenvolvimento com IA
-- Aprendendo mais sobre arquitetura de software e UI/UX
+- 🎓 Cursando Ciência da Computação
+- 💻 Desenvolvimento web com foco em projetos reais para clientes
+- 🎮 Co-criador do [DraftCS](https://draftcs.com) — jogo web gratuito para fãs de Counter-Strike
+- 🌱 Sempre aprendendo algo novo na área de TI
 
 ---
 
-## Featured Projects
+### 🛠️ Stack & Ferramentas
 
-### Portfolio Website
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-🇺🇸 Personal portfolio focused on clean design, responsiveness and modern frontend development.
-
-🇧🇷 Portfólio pessoal focado em design limpo, responsividade e desenvolvimento frontend moderno.
-
----
-
-### Commercial Management System
-
-🇺🇸 Commercial management system with customer registration, stock control and financial management features.
-
-🇧🇷 Sistema de gestão comercial com cadastro de clientes, controle de estoque e funcionalidades de gerenciamento financeiro.
-
----
-
-### Customer Registration System
-
-🇺🇸 Desktop application built with Python and Tkinter for customer management using JSON persistence.
-
-🇧🇷 Aplicação desktop desenvolvida com Python e Tkinter para gerenciamento de clientes utilizando persistência em JSON.
+> Ajuste os badges acima conforme as tecnologias que você mais usa no dia a dia.
 
 ---
 
-## Links
+### 🚀 Projetos em destaque
 
-- Portfolio: https://portelav.vercel.app
-- LinkedIn: https://www.linkedin.com/in/lucas-portela-99892140a
-- GitHub: https://github.com/portelav
+| Projeto | Descrição |
+|---|---|
+| 🎮 **[DraftCS](https://draftcs.com)** | Jogo web gratuito onde fãs de CS draftam jogadores históricos e simulam Majors. Mecânica de compartilhamento viral. Co-criado com [@ViniciusLoureiro67](https://github.com/ViniciusLoureiro67). |
+| 🚗 **Capela Revcar** | Site completo para loja de carros (estoque, financiamento, venda de veículo, sobre nós), com tema claro/escuro e identidade visual da marca. |
+| 🧭 **Landing page — turismo** | Landing page para guia turístico, construída com Next.js, Tailwind CSS, shadcn/ui e Framer Motion. |
+| 🧳 **Vergetti Turismo** | Formulário interativo de intake para cliente do setor de turismo, com seção para o cliente e seção técnica interna. |
 
 ---
 
-🇺🇸 Building, learning and improving every day.
+### 📊 Estatísticas do GitHub
 
-🇧🇷 Construindo, aprendendo e evoluindo todos os dias.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=portelav&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portelav&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=portelav&theme=radical" />
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasportelav">LinkedIn</a> ·
+  <a href="https://instagram.com/lucasportelav">Instagram</a>
+</p>
